@@ -4932,7 +4932,7 @@ tbody.collapse.show {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: ##c4fd79;
+  /* background-color: ##c4fd79; */
   border-radius: 0.3rem;
 }
 
